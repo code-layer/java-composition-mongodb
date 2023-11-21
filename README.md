@@ -3,7 +3,7 @@ Sample java code to use single Mongo collection for Discrete java objects
 
 ## Entity with EntityParts
 
-![Java Composition](https://public.datalayer.in/ea2d2c05/java-mongodb.jpg)
+![Java Composition](https://df1zaccjidinu.cloudfront.net/ea2d2c05/java-mongodb.jpg)
 
 
 ## Links
